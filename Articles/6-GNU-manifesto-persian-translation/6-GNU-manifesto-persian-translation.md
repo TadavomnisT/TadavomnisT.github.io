@@ -459,7 +459,7 @@ _از آن زمان، ما در مورد برخی سوء تفاهم های را�
 
 همچنین چند نکته در ترجمه شایان ذکر است:
 
-* عبارت "Public Domain" به عنوان "مالکیت عمومی" ترجمه شده است، برای اطلاعات بیشتر  برای اطلاعات بیشتر "[Public Domain](https://en.wikipedia.org/wiki/Public_domain)" و "[مالکیت عمومی](https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA_%D8%B9%D9%85%D9%88%D9%85%DB%8C)" را در ویکی‌پدیا مطالعه بفرمائید.
+* عبارت "Public Domain" به عنوان "مالکیت عمومی" ترجمه شده است، برای اطلاعات بیشتر "[Public Domain](https://en.wikipedia.org/wiki/Public_domain)" و "[مالکیت عمومی](https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA_%D8%B9%D9%85%D9%88%D9%85%DB%8C)" را در ویکی‌پدیا مطالعه بفرمائید.
 
 * عبارت "Murphy" به عنوان "قانون مورفی" ترجمه شده است، این قانون به صراحت بیان میکند که:
 [Anything that can go wrong will go wrong.](https://en.wikipedia.org/wiki/Murphy's_law)
@@ -895,7 +895,7 @@ We have already greatly reduced the amount of work that the whole society must d
 
 همچنین چند نکته در ترجمه شایان ذکر است:
 
-* عبارت "Public Domain" به عنوان "مالکیت عمومی" ترجمه شده است، برای اطلاعات بیشتر  برای اطلاعات بیشتر "[Public Domain](https://en.wikipedia.org/wiki/Public_domain)" و "[مالکیت عمومی](https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA_%D8%B9%D9%85%D9%88%D9%85%DB%8C)" را در ویکی‌پدیا مطالعه بفرمائید.
+* عبارت "Public Domain" به عنوان "مالکیت عمومی" ترجمه شده است، برای اطلاعات بیشتر "[Public Domain](https://en.wikipedia.org/wiki/Public_domain)" و "[مالکیت عمومی](https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA_%D8%B9%D9%85%D9%88%D9%85%DB%8C)" را در ویکی‌پدیا مطالعه بفرمائید.
 
 * عبارت "Murphy" به عنوان "قانون مورفی" ترجمه شده است، این قانون به صراحت بیان میکند که:
 [Anything that can go wrong will go wrong.](https://en.wikipedia.org/wiki/Murphy's_law)
@@ -939,11 +939,23 @@ This is a free and open-source article under the license of GFDL1-3, so permissi
 
 * https://www.gnu.org/gnu/manifesto.html
 * https://en.wikipedia.org/wiki/GNU_Manifesto
+* https://t.me/la5tknight
 
 ## منابع
 
 * https://www.gnu.org/gnu/manifesto.html
 * https://en.wikipedia.org/wiki/GNU_Manifesto
+* https://t.me/la5tknight
+
+## Special Thanks to
+
+* https://t.me/la5tknight
+For helping me in translation.
+
+## تشکر ویژه از
+
+* https://t.me/la5tknight
+برای کمک در فرایند ترجمه.
 
 ## Issues related to this Article
 
