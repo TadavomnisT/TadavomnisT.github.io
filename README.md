@@ -16,6 +16,7 @@ ____________________________________________
       *  [Speed Comparison between RAM and HDD](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-En/4-RAM-vs-HDD-En.html#comparison-of-hard-disk-and-ram-speed)
             * [Phase 1: Comparing the Speed of RAM and Hard Disk in Handling Large Data](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-En/4-RAM-vs-HDD-En.html#phase-1-comparing-the-speed-of-ram-and-hard-disk-in-handling-large-data)
             * [Phase Two: Comparing the Speed of RAM and Hard Disk for Small Data and Fast Sequential Allocations](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-En/4-RAM-vs-HDD-En.html#phase-two-comparing-the-speed-of-ram-and-hard-disk-for-small-data-and-fast-sequential-allocations)
+* [GNU Manifesto Persian Translation](https://tadavomnist.github.io/Articles/6-GNU-manifesto-persian-translation/6-GNU-manifesto-persian-translation.html)
 
 ##### Persian:
 *  [از چه سرچ انجینی استفاده کنیم؟](https://tadavomnist.github.io/Articles/2-which-search-engine-Pr/2-which-search-engine-Pr.html)
@@ -28,3 +29,4 @@ ____________________________________________
       *  [چرا میگیم هارد دیسک به طور متوسط 100,000 بار از رم کند تره؟](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-Pr/4-RAM-vs-HDD-Pr.html#%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D9%88-%D8%B1%D9%85)
             * [فاز اول: مقایسه سرعت رم و هارددیسک در کار با داده‌های بزرگ](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-Pr/4-RAM-vs-HDD-Pr.html#%D9%81%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%B1%D9%85-%D9%88-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF)
             * [فاز دوم: مقایسه سرعت رم و هارددیسک در کار با داده‌های کوچیک و الوکیشنهای سریع و پیاپی](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-Pr/4-RAM-vs-HDD-Pr.html#%D9%81%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%B1%D9%85-%D9%88-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF)
+* [ترجمه فارسی بیانیه گنو GNU](https://tadavomnist.github.io/Articles/6-GNU-manifesto-persian-translation/6-GNU-manifesto-persian-translation.html)
