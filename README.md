@@ -17,8 +17,18 @@ ____________________________________________
             * [Phase 1: Comparing the Speed of RAM and Hard Disk in Handling Large Data](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-En/4-RAM-vs-HDD-En.html#phase-1-comparing-the-speed-of-ram-and-hard-disk-in-handling-large-data)
             * [Phase Two: Comparing the Speed of RAM and Hard Disk for Small Data and Fast Sequential Allocations](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-En/4-RAM-vs-HDD-En.html#phase-two-comparing-the-speed-of-ram-and-hard-disk-for-small-data-and-fast-sequential-allocations)
 * [GNU Manifesto Persian Translation](https://tadavomnist.github.io/Articles/6-GNU-manifesto-persian-translation/6-GNU-manifesto-persian-translation.html)
+* [Backtracking Algorithm in Artificial Intelligence 🔥](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html)
+    * [The n-Queens and n-Rooks Problem](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#the-n-queens-and-n-rooks-problem)
+    * [What is the Backtracking Algorithm?](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#what-is-the-backtracking-algorithm)
+        * [Trees: An Indispensable Concept in Computer Science](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#trees-an-indispensable-concept-in-computer-science)
+        * [What is a tree? (Simple Explanation)](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#what-is-a-tree-simple-explanation)
+        * [Solving n-rooks problem and n-queens problem using the backtracking approach](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#solving-n-rooks-problem-and-n-queens-problem-using-the-backtracking-approach)
+        * [How to print a tree in PHP?](https://tadavomnist.github.io/Articles/5-backtracking-En/5-backtracking-En.html#how-to-print-a-tree-in-php)
+
+
 
 ##### Persian:
+
 *  [از چه سرچ انجینی استفاده کنیم؟](https://tadavomnist.github.io/Articles/2-which-search-engine-Pr/2-which-search-engine-Pr.html)
 *  [فرق بین XSS و XSRF چیست؟](https://tadavomnist.github.io/Articles/3-XSS-XSRF-Pr/3-XSS-XSRF-Pr.html)
       *  [حمله XSS چیست؟](https://tadavomnist.github.io/Articles/3-XSS-XSRF-Pr/3-XSS-XSRF-Pr.html#%D8%AD%D9%85%D9%84%D9%87-xss-%DA%86%DB%8C%D8%B3%D8%AA)
@@ -30,3 +40,11 @@ ____________________________________________
             * [فاز اول: مقایسه سرعت رم و هارددیسک در کار با داده‌های بزرگ](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-Pr/4-RAM-vs-HDD-Pr.html#%D9%81%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%B1%D9%85-%D9%88-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF)
             * [فاز دوم: مقایسه سرعت رم و هارددیسک در کار با داده‌های کوچیک و الوکیشنهای سریع و پیاپی](https://tadavomnist.github.io/Articles/4-RAM-vs-HDD-Pr/4-RAM-vs-HDD-Pr.html#%D9%81%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B3%D8%B1%D8%B9%D8%AA-%D8%B1%D9%85-%D9%88-%D9%87%D8%A7%D8%B1%D8%AF%D8%AF%DB%8C%D8%B3%DA%A9-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AF%D8%A7%D8%AF%D9%87%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF)
 * [ترجمه فارسی بیانیه گنو GNU](https://tadavomnist.github.io/Articles/6-GNU-manifesto-persian-translation/6-GNU-manifesto-persian-translation.html)
+* [الگوریتم بک‌ترکینگ در هوش مصنوعی 🔥](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html)
+    * [مساله nرخ چیست؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%D9%85%D8%B3%D8%A7%D9%84%D9%87-n%D8%B1%D8%AE-%D9%88-n%D9%88%D8%B2%DB%8C%D8%B1)
+    * [مساله nوزیر چیست؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%D9%85%D8%B3%D8%A7%D9%84%D9%87-n%D8%B1%D8%AE-%D9%88-n%D9%88%D8%B2%DB%8C%D8%B1)
+    * [الگوریتم بک‌ترکینگ چیست؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D8%A8%DA%A9%D8%AA%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%DA%86%DB%8C%D8%B3%D8%AA)
+        * [چرا درختها توی علم کامپیوتر اهمیت زیادی دارن؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%DA%86%D8%B1%D8%A7-%D8%AF%D8%B1%D8%AE%D8%AA%D9%87%D8%A7-%D8%AA%D9%88%DB%8C-%D8%B9%D9%84%D9%85-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D8%A7%D9%87%D9%85%DB%8C%D8%AA-%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C-%D8%AF%D8%A7%D8%B1%D9%86)
+        * [درخت چیست؟ (توضیح ساده)](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%D8%AF%D8%B1%D8%AE%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD-%D8%B3%D8%A7%D8%AF%D9%87)
+        * [چجوری مساله nرخ و nوزیر رو با روش بک‌ترکینگ حل کنیم؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%DA%86%D8%AC%D9%88%D8%B1%DB%8C-%D9%85%D8%B3%D8%A7%D9%84%D9%87-n%D8%B1%D8%AE-%D9%88-n%D9%88%D8%B2%DB%8C%D8%B1-%D8%B1%D9%88-%D8%A8%D8%A7-%D8%B1%D9%88%D8%B4-%D8%A8%DA%A9%D8%AA%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%AD%D9%84-%DA%A9%D9%86%DB%8C%D9%85)
+        * [چجوری یه درخت رو توی PHP چاپ کنیم؟](https://tadavomnist.github.io/Articles/5-backtracking-Pr/5-backtracking-Pr.html#%DA%86%D8%AC%D9%88%D8%B1%DB%8C-%DB%8C%D9%87-%D8%AF%D8%B1%D8%AE%D8%AA-%D8%B1%D9%88-%D8%AA%D9%88%DB%8C-php-%DA%86%D8%A7%D9%BE-%DA%A9%D9%86%DB%8C%D9%85)
